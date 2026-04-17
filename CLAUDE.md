@@ -8,6 +8,18 @@ This is a **throwaway validation Flutter app** — a test harness for the `vimeo
 
 The build spec lives in `VIMEO_TEST_PROMPT.md` — read it before making any structural changes.
 
+
+
+## CRITICAL: Commit Authorship
+
+**NEVER add `Co-Authored-By`, `Co-authored-by`, or any Claude/Anthropic attribution line to any git commit message.**
+
+This applies to every commit, in every context, without exception:
+- Feature commits, bug fixes, chores, docs, refactors, merges, amends
+
+All commits must contain only the developer's own authorship. Claude is a coding assistant, not a co-author.
+
+
 ## Commands
 
 ```bash
