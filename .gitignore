@@ -91,9 +91,12 @@ Desktop.ini
 # ============================================
 # Ignore ALL .md files
 *.md
-# Except README.md and CLAUDE.md (always track this)
+# Except README.md, CLAUDE.md, and platform setup docs
 !README.md
 !CLAUDE.md
+!ANDROID_SETUP.md
+!IOS_SETUP.md
+!VIMEO_TEST_PROMPT.md
 # ============================================
 
 # Claude Code rules (optional - uncomment to ignore)
